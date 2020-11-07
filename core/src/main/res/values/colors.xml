@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--brand-->
+    <color name="brand_normal">#FF7041</color>
+    <color name="brand_lightest">#FFA385</color>
+    <color name="branc_darkest">#FF470A</color>
+
+    <!--secondary-->
+    <color name="secondary_brand_normal">#FF8E3D</color>
+    <color name="secondary_brand_lightest">#FFB885</color>
+    <color name="secondary_branc_darkest">#FF700A</color>
+
+    <!--aux-->
+    <color name="aux_normal">#252D9B</color>
+    <color name="aux_lightest">#3A44CF</color>
+    <color name="aux_darkest">#1C2273</color>
+
+    <!--grey-->
+    <color name="grey_normal">#BFC1C4</color>
+    <color name="grey_lightest">#3700B3</color>
+    <color name="grey_darkest">#808489</color>
+
+    <!--others-->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>

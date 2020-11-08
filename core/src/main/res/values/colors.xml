@@ -13,11 +13,11 @@
     <!--aux-->
     <color name="aux_normal">#252D9B</color>
     <color name="aux_lightest">#3A44CF</color>
-    <color name="aux_darkest">#1C2273</color>
+    <color name="aux_darkest">#ADADAD</color>
 
     <!--grey-->
-    <color name="grey_normal">#BFC1C4</color>
-    <color name="grey_lightest">#3700B3</color>
+    <color name="grey_normal">#EAEBEB</color>
+    <color name="grey_lightest">#F5F5F5</color>
     <color name="grey_darkest">#808489</color>
 
     <!--others-->

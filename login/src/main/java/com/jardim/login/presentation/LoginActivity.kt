@@ -1,7 +1,8 @@
-package com.jardim.login
+package com.jardim.login.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jardim.login.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

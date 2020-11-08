@@ -3,7 +3,7 @@
     <!--brand-->
     <color name="brand_normal">#FF7041</color>
     <color name="brand_lightest">#FFA385</color>
-    <color name="branc_darkest">#FF470A</color>
+    <color name="brand_darkest">#FF470A</color>
 
     <!--secondary-->
     <color name="secondary_brand_normal">#FF8E3D</color>
